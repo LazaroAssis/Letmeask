@@ -7,7 +7,7 @@ Primeiramente gostaria de agradecer a RocketSeat pelo belo projeto! e construir 
 
 Esse projeto tem muita coisa importante tais como state, useeffect, firebase, history é um conjunto de boas práticas e maneiras inteligentes de resolver problemas.
 
-Você pode fazer o download do projeto e rodar em sua máquina ou simplesmente acessar esse link:  <a href="https://letmeask-2b7d0.web.app/" target="_blank">AppWeb</a> que está em um host do Firebase.
+Você pode fazer o download do projeto e rodar em sua máquina ou simplesmente acessar esse link:<a href="https://letmeask-2b7d0.web.app/" target="_blank" rel="nofollow">AppWeb</a> que está em um host do Firebase.
 
 
 
