@@ -11,7 +11,7 @@ Você pode fazer o download do projeto e rodar em sua máquina ou simplesmente a
 
 
 
-Favor crie suas variaveis do firebase em um arquivo chamado .env.local com as seguintes informações.
+Favor crie suas variaveis do firebase em um arquivo chamado .env.local na raiz do seu projeto! fora do src! com as seguintes informações.
 
 Obs: Note que todos estão em branco! pegue todas as informações no seu firebase e coloque dentro dos ""
 
