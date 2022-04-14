@@ -10,6 +10,23 @@ Esse projeto tem muita coisa importante tais como state, useeffect, firebase, hi
 Você pode fazer o download do projeto e rodar em sua máquina ou simplesmente acessar esse link:  https://letmeask-2b7d0.web.app/ que está em um host do Firebase.
 
 
+
+Favor crie suas variaveis do firebase em um arquivo chamado .env.local com as seguintes informações.
+
+Obs: Note que todos estão em branco! pegue todas as informações no seu firebase e coloque dentro dos ""
+
+#FIREBASE CONFIGS VAR
+
+REACT_APP_API_KEY=""
+REACT_APP_AUTH_DOMAIN=""
+REACT_APP_DATABASE_URL=""
+REACT_APP_PROJECT_ID=""
+REACT_APP_STORAGE_BUCKET=""
+REACT_APP_MESSAGING_SENDER_ID=""
+REACT_APP_APP_ID="" 
+
+
+
 Instalar o projeto 
 
 yarn install
