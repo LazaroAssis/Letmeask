@@ -11,26 +11,9 @@ Você pode fazer o download do projeto e rodar em sua máquina ou simplesmente a
 
 
 
-Favor crie suas variaveis do firebase em um arquivo chamado .env.local na raiz do seu projeto! fora do src! com as seguintes informações.
+Favor edite suas variaveis do firebase em um arquivo chamado .env.local na raiz do projeto, com as seguintes informações do firebase
 
 Obs: Note que todos estão em branco! pegue todas as informações no seu firebase e coloque dentro dos ""
-
-#FIREBASE CONFIGS VAR
-
-REACT_APP_API_KEY=""
-
-REACT_APP_AUTH_DOMAIN=""
-
-REACT_APP_DATABASE_URL=""
-
-REACT_APP_PROJECT_ID=""
-
-REACT_APP_STORAGE_BUCKET=""
-
-REACT_APP_MESSAGING_SENDER_ID=""
-
-REACT_APP_APP_ID="" 
-
 
 
 Instalar o projeto 
